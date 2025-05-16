@@ -1,8 +1,8 @@
-### Olá pessoal 👋, meu nome é Bruno. Sou desenvolvedor Front-End e analista de sistemas.
+### Olá pessoal 👋, meu nome é Bruno. Sou desenvolvedor Full Stack e analista de sistemas.
 
 ##
 - 🔭 Eu estou atualmente trabalhando em projetos próprios e automação de processos.
-- 🌱 Eu estou atualmente aprendendo Python, SQL, MongoDB, PostgreSQL e estudando desenvolvimento Back-End.
+- 🌱 Atualmente, estou me especializando em bibliotecas Python e desenvolvimento Back-End. Em paralelo, estou expandindo conhecimento em arquitetura de sistemas e processos de implementação.
 - 📫 Como chegar até mim: https://www.linkedin.com/in/brunobgr/
 ##
 
