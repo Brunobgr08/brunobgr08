@@ -13,7 +13,7 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Bruno-AWS" height="40" width="50" src="https://devicon-website.vercel.app/api/amazonwebservices/original-wordmark.svg">
+  <img align="center" alt="Bruno-AWS" height="40" width="50" src="https://icongr.am/devicon/amazonwebservices-plain-wordmark.svg?size=128&color=currentColor">
   <img align="center" alt="Bruno-Kubernetes" height="40" width="50" src="https://devicon-website.vercel.app/api/kubernetes/plain.svg">
   <img align="center" alt="Bruno-Docker" height="40" width="50" src="https://icongr.am/devicon/docker-original-wordmark.svg?size=128&color=currentColor">
   <img align="center" alt="Bruno-Clj" height="40" width="50" src="https://devicon-website.vercel.app/api/clojure/original.svg">
