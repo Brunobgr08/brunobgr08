@@ -13,7 +13,11 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Bruno-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" alt="Bruno-AWS" height="30" width="40" src="https://devicon-website.vercel.app/api/amazonwebservices/original-wordmark.svg">
+  <img align="center" alt="Bruno-Kubernetes" height="30" width="40" src="https://devicon-website.vercel.app/api/kubernetes/plain.svg">
+  <img align="center" alt="Bruno-Docker" height="30" width="40" src="https://icongr.am/devicon/docker-original-wordmark.svg?size=128&color=currentColor">
+  <img align="center" alt="Bruno-Clj" height="30" width="40" src="https://devicon-website.vercel.app/api/clojure/original.svg">
+  <img align="center" alt="Bruno-Kafka" height="30" width="40" src="[https://devicon-website.vercel.app/api/clojure/original.svg](https://devicon-website.vercel.app/api/apachekafka/original.svg)">
   <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bruno-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Bruno-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
