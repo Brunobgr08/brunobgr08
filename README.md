@@ -1,9 +1,9 @@
-### Olá pessoal 👋, meu nome é Bruno. Sou desenvolvedor Full Stack e analista de sistemas.
+### Olá pessoal 👋, meu nome é Bruno. Sou desenvolvedor backend, com formação em Full Stack e analista de sistemas.
 
 ##
 - 🔭 Eu estou atualmente trabalhando em projetos próprios e automação de processos.
-- 🌱 Atualmente, estou me especializando em bibliotecas Python e desenvolvimento Back-End. Em paralelo, estou expandindo conhecimento em arquitetura de sistemas e processos de implementação.
-- 📫 Como chegar até mim: https://www.linkedin.com/in/brunobgr/
+- 🌱 Atualmente, estou me especializando em bibliotecas Python. Em paralelo, estou expandindo conhecimento em arquitetura de sistemas e processos de implementação.
+- 📫 Como chegar até mim: https://www.linkedin.com/in/bruno-guedes-backend-python/
 ##
 
 <div align="center">
