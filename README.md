@@ -1,3 +1,6 @@
+
+###
+
 <h1 align="center">Olá pessoal 👋, meu nome é Bruno.</h1>
 
 ###
@@ -44,7 +47,7 @@
 
 ⚒ Frameworks e Ferramentas
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
@@ -97,6 +100,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Brunobgr08&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <br/>
   <img src="https://github-profile-trophy.vercel.app?username=Brunobgr08&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
