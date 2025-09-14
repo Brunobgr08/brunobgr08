@@ -1,8 +1,8 @@
 ### Olá pessoal 👋, meu nome é Bruno. Sou desenvolvedor backend, com formação em Full Stack e analista de sistemas.
 
 ##
-- 🔭 Eu estou atualmente trabalhando em projetos próprios e automação de processos.
-- 🌱 Atualmente, estou me especializando em bibliotecas Python. Em paralelo, estou expandindo conhecimento em arquitetura de sistemas e processos de implementação.
+- 🔭 Estou atualmente trabalhando em projetos próprios e automação de processos.
+- 🌱 Também venho me especializando em bibliotecas Python. Em paralelo, estou expandindo conhecimento em arquitetura de sistemas e processos de implementação.
 - 📫 Como chegar até mim: https://www.linkedin.com/in/bruno-guedes-backend-python/
 ##
 
@@ -36,7 +36,9 @@
 
 ###
 
-<div align="left">
+⚒ Principais Frameworks e Ferramentas
+
+<div style="display: inline_block"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
