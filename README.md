@@ -1,12 +1,12 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Olá pessoal 👋, meu nome é Bruno.</h1>
 
 ###
+
+###  Sou desenvolvedor backend, com formação em Full Stack e analista de sistemas.
 
 <!-- <div align="center">
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div> -->
-
-### Olá pessoal 👋, meu nome é Bruno. Sou desenvolvedor backend, com formação em Full Stack e analista de sistemas.
 
 ##
 - 🔭 Estou atualmente trabalhando em projetos próprios e automação de processos.
@@ -14,11 +14,7 @@
 - 📫 Como chegar até mim: https://www.linkedin.com/in/bruno-guedes-backend-python/
 ##
 
-<div align="center">
-  <a href="https://github.com/Brunobgr08">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=Brunobgr08&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunobgr08&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+###
 
 🏆 Principais Conhecimentos e Habilidades
 
@@ -91,12 +87,11 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/bruno-guedes-backend-python/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:brunobgr0810@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://wa.me/+5538999979217?text=Ol%C3%A1,%20diga%20seu%20nome,%20cidade%20e%20assunto!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-  <a href="https://t.me/Bruno_bgr" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/bruno_guedesrodrigues" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href="https://github.com/Brunobgr08">
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=Brunobgr08&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunobgr08&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+
 
 ###
 
@@ -119,3 +114,11 @@
 <img src="https://raw.githubusercontent.com/Brunobgr08/Brunobgr08/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/bruno-guedes-backend-python/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:brunobgr0810@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://wa.me/+5538999979217?text=Ol%C3%A1,%20diga%20seu%20nome,%20cidade%20e%20assunto!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  <a href="https://t.me/Bruno_bgr" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/bruno_guedesrodrigues" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+</div>
