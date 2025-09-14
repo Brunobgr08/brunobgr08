@@ -2,9 +2,9 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
+</div> -->
 
 ### Olá pessoal 👋, meu nome é Bruno. Sou desenvolvedor backend, com formação em Full Stack e analista de sistemas.
 
