@@ -1,16 +1,17 @@
+
 ###
 
 <h1 align="center">Olá pessoal 👋, meu nome é Bruno.</h1>
 
 ###
 
-###  Sou desenvolvedor backend, com formação em Full Stack e analista de sistemas.
-
 <!-- <div align="center">
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div> -->
 
-##
+###  Sou desenvolvedor backend, com formação em Full Stack e analista de sistemas.
+
+
 - 🔭 Estou atualmente trabalhando em projetos próprios e automação de processos.
 - 🌱 Também venho me especializando em bibliotecas Python. Em paralelo, estou expandindo conhecimento em arquitetura de sistemas e processos de implementação.
 - 📫 Como chegar até mim: https://www.linkedin.com/in/bruno-guedes-backend-python/
@@ -88,8 +89,9 @@
 
 ###
 
+##
+
 <div align="center">
-  <a href="https://github.com/Brunobgr08">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=Brunobgr08&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunobgr08&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
@@ -99,7 +101,11 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Brunobgr08&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <br>
+</div>
+
+###
+
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=Brunobgr08&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
