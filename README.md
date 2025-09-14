@@ -1,6 +1,6 @@
 ###
 
-<h1 align="center">Olá pessoal 👋, meu nome é Bruno.</h1>
+<h1 align="center">👋 Olá pessoal, meu nome é Bruno.</h1>
 
 ###
 
