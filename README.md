@@ -1,4 +1,3 @@
-
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient"/>
 
@@ -96,6 +95,8 @@
 
 ##
 
+📈 Estatísticas
+
 <div align="center">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=Brunobgr08&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunobgr08&layout=compact&langs_count=7&theme=tokyonight"/>
@@ -104,7 +105,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Brunobgr08&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Brunobgr08&theme=dracula&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
@@ -140,6 +141,8 @@
 ###
 
 ##
+
+📨 Outros contatos
 
 <div align="center">
   <a href="https://www.linkedin.com/in/bruno-guedes-backend-python/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
