@@ -152,4 +152,8 @@
   <a href="https://www.instagram.com/bruno_guedesrodrigues" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-##
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer"/>
+
+</div>
