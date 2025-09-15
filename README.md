@@ -95,35 +95,43 @@
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunobgr08&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-###
+<!-- ###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Brunobgr08&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
+### -->
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=Brunobgr08&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
+##
+
+###
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brunobgr08/Brunobgr08/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Brunobgr08/Brunobgr08/output/pacman-contribution-graph.svg">
+    <img alt="GitHub Contribution Graph" src="https://raw.githubusercontent.com/Brunobgr08/Brunobgr08/output/pacman-contribution-graph.svg" width="100%">
+  </picture>
+</div>
+
+###
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brunobgr08/Brunobgr08/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Brunobgr08/Brunobgr08/output/snake.svg">
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/Brunobgr08/Brunobgr08/output/snake.svg" width="100%">
+  </picture>
+</div>
+
 ###
 
 ##
-
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brunobgr08/Brunobgr08/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Brunobgr08/Brunobgr08/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Brunobgr08/Brunobgr08/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<img src="https://raw.githubusercontent.com/Brunobgr08/Brunobgr08/output/snake.svg" alt="Snake animation" />
-
-###
-
-## -->
 
 <div align="center">
   <a href="https://www.linkedin.com/in/bruno-guedes-backend-python/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
