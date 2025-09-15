@@ -1,4 +1,4 @@
-name: Generate Pacman
+name: Generate pacman animation
 
 on:
   schedule: # execute every 12 hours
@@ -28,5 +28,7 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          keep_history: false
+          allow_empty_commit: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
