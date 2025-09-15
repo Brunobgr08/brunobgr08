@@ -102,13 +102,13 @@
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunobgr08&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-###
+<!-- ###
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brunobgr08&theme=dracula&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
-###
+### -->
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=Brunobgr08&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
