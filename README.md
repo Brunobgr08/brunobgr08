@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamdhemxwOXpocms1dXhldnh0d2o2YXVqN3JwdjBqM2o1djJzZjBkZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif"  />
 </div>
 
 ### Sou desenvolvedor backend, com formação em Full Stack e analista de sistemas.
