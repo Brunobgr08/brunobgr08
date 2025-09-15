@@ -26,10 +26,12 @@ jobs:
             dist/snake.svg?palette=github-light
             dist/snake-dark.svg?palette=github-dark
 
-      - name: push snake.svg to the output branch
+      - name: push snake.svg to the output_snake branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: output
+          target_branch: output_snake
           build_dir: dist
+          keep_history: false
+          allow_empty_commit: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
