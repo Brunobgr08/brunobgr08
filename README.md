@@ -105,7 +105,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Brunobgr08&theme=dracula&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brunobgr08&theme=dracula&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
@@ -151,7 +151,6 @@
   <a href="https://t.me/Bruno_bgr" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/bruno_guedesrodrigues" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer"/>
