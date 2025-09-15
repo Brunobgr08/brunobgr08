@@ -113,9 +113,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brunobgr08/Brunobgr08/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Brunobgr08/Brunobgr08/output/pacman-contribution-graph.svg">
-    <img alt="GitHub Contribution Graph" src="https://raw.githubusercontent.com/Brunobgr08/Brunobgr08/output/pacman-contribution-graph.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brunobgr08/brunobgr08/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Brunobgr08/brunobgr08/output/pacman-contribution-graph.svg">
+    <img alt="GitHub Contribution Graph" src="https://raw.githubusercontent.com/Brunobgr08/brunobgr08/output/pacman-contribution-graph.svg" width="100%">
   </picture>
 </div>
 
@@ -123,9 +123,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brunobgr08/Brunobgr08/output/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Brunobgr08/Brunobgr08/output/snake.svg">
-    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/Brunobgr08/Brunobgr08/output/snake.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brunobgr08/brunobgr08/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Brunobgr08/brunobgr08/output/snake.svg">
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/Brunobgr08/brunobgr08/output/snake.svg" width="100%">
   </picture>
 </div>
 
